@@ -1,0 +1,2 @@
+# lotery
+basic bad lotery
